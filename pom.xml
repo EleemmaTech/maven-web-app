@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>eBay-back2school-releases</name>
 	      <url>http://34.207.127.155:8081/repository/eBay-back2school-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>eBay-back2school-snapshots</name>
 	      <url>http://34.207.127.155:8081/repository/eBay-back2school-snapshots/</url>
 	    </snapshotRepository>
 	    
