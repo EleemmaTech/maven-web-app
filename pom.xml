@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>eBay-back2school-releases</name>
-	      <url>http://34.207.127.155:8081/repository/eBay-back2school-releases/</url>
+	      <name>eBay-bk2sc-campaign-releases</name>
+	      <url>http://107.22.154.25:8081/repository/ebay-bk2sc-campaign-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>eBay-back2school-snapshots</name>
-	      <url>http://34.207.127.155:8081/repository/eBay-back2school-snapshots/</url>
+	      <name>eBay-bk2sc -campaign-snapshots</name>
+	      <url>http://107.22.154.25:8081/repository/ebay-bk2sc-campaign-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
