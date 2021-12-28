@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>eBay-back-to-school-releases</name>
-	      <url>http://3.87.56.244:8081/repository/ebay-bk2sc-campaign-releases/</url>
+	      <name>rbc-project</name>
+	      <url>http://34.125.59.95:8081/repository/rbc-project-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>eBay-back-to-school-snapshots</name>
-	      <url>http://3.87.56.244:8081/repository/ebay-bk2sc-campaign-snapshot/</url>
+	      <name>rbc-project</name>
+	      <url>http://34.125.59.95:8081/repository/rbc-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
