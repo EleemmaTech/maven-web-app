@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>rbc-project</name>
+	      <name>ebay-deals-pipeline</name>
 	      <url>http://34.125.59.95:8081/repository/ebay-sales-campaign-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>rbc-project</name>
+	      <name>ebay-deals-pipeline</name>
 	      <url>http://34.125.59.95:8081/repository/rbc-project-snapshot/</url>
 	    </snapshotRepository>
 	    
